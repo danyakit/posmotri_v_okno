@@ -245,8 +245,8 @@ ol {
 
 .search-form__pseudo-checkbox::before {
   content: "";
-  width: 14px;
-  height: 14px;
+  width: 15px;
+  height: 15px;
   margin: auto;
   background-color: #FFF;
 }
@@ -260,6 +260,7 @@ ol {
   justify-content: center;
   align-items: center;
   font-family: inherit;
+  font-size: inherit;
   cursor: pointer;
   height: 34px;
   font-weight: 700;
